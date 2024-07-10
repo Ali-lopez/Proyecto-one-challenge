@@ -138,12 +138,14 @@ align-items: center;
     font-size: 1.8em;
     font-weight: bold;
     text-align: left;
+    margin-top: 80%;
 }
 .text2 {
     padding: 1em;
     color: #636262;
     font-size: 1.1em;
     text-align: left;
+    margin-top: 80%;
 }
 
 #titulo-resultado{
